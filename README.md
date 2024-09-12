@@ -1,7 +1,7 @@
 ## Mikhail Larchanka
 
 <h1 align="center">Hi 👋, I'm Mikhail</h1>
-<h3 align="center">Supreme fullstack developer</h3>
+<h3 align="center">Principal Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=larchanka&label=Profile%20views&color=0e75b6&style=flat" alt="larchanka" /> </p>
 
